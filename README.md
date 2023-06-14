@@ -3,8 +3,7 @@
 
 
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F7F7F7&size=30&center=true&vCenter=true&width=1000&height=100&lines=Student+%F0%9F%91%A9%F0%9F%8F%BB%E2%80%8D%F0%9F%8E%93;Software-developer+%F0%9F%91%A9%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;Engineer+%F0%9F%91%A9%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB)](https://git.io/typing-svg) -->
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&vCenter=true&width=433&lines=Student+%F0%9F%91%A9%F0%9F%8F%BB%E2%80%8D%F0%9F%8E%93;Engineer+%F0%9F%91%A9%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;Software+Developer+%F0%9F%92%BB;AI%26ML+%F0%9F%A4%96)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Student+%F0%9F%91%A9%F0%9F%8F%BB%E2%80%8D%F0%9F%8E%93;Engineer+%F0%9F%91%A9%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;Software+Developer+%F0%9F%92%BB;AI%26ML+%F0%9F%A4%96)](https://git.io/typing-svg)
 
 <h2 align="center"> ABOUT 👩🏻</h2> 
 <h3 font="monospace"> This is Priyadharshini an Engineering aspirant, pursuing my bachelor's degree in Velammal Engineering College.</h3>
