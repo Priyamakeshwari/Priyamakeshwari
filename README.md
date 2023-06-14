@@ -6,7 +6,7 @@
 
 
 <h2 align="center"> ABOUT 👩🏻</h2> 
-<h3 font="monospace"> This is Priyadharshini an Engineering aspirant, persuing my bachelor's degree in Velammal Engineering College.</h3>
+<h3 font="monospace"> This is Priyadharshini an Engineering aspirant, pursuing my bachelor's degree in Velammal Engineering College.</h3>
 <ul>
   <li> <a href="https://priyamakeshwari.github.io/"> To know more about me 👩🏻‍💻 </a>
   </li>
