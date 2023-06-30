@@ -2,7 +2,7 @@
 <br/>
 <img style="width:100%;height:64px" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F7F7F7&center=true&vCenter=true&width=437&lines=Student+%F0%9F%91%A9%F0%9F%8F%BB%E2%80%8D%F0%9F%8E%93;Learner+%F0%9F%91%A9%F0%9F%8F%BB%E2%80%8D%F0%9F%8F%AB;AI%2FML+%F0%9F%A4%96;Developer+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB;Engineer+%F0%9F%91%B7%F0%9F%8F%BB%E2%80%8D%E2%99%80%EF%B8%8F" alt="Typing SVG" />
 <br/>
-<h3 align="center">A passionate fourth-year undergraduate from Velammal Engineering College. Driven by my love for AI/ML, I aim to revolutionize the future through groundbreaking advancements. With a thirst for knowledge, I strive to push boundaries, solve complex problems, and contribute to cutting-edge innovations. Join me on this exhilarating journey to create a brighter, more innovative future using AI/ML. Together, let's make a difference!</h3>
+<p align="center">A passionate fourth-year undergraduate from Velammal Engineering College. Driven by my love for AI/ML, I aim to revolutionize the future through groundbreaking advancements. With a thirst for knowledge, I strive to push boundaries, solve complex problems, and contribute to cutting-edge innovations. Join me on this exhilarating journey to create a brighter, more innovative future using AI/ML. Together, let's make a difference!</p>
 <br/>
 <hr/>
 <h2 align="center" style="font-weight: bold; font-size:24px">My Skills</h2>
