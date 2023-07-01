@@ -32,7 +32,7 @@
 </p>
 <hr/>
 <h2 align="center" style="font-weight: bold; font-size:24px">My Github Stats</h2>
-<p align="center">&nbsp;<img style="width:47%; padding:16px;" align="center" src="https://github-readme-stats.vercel.app/api?username=priyamakeshwari&show_icons=true&theme=tokyonight&locale=en" alt="priyamakeshwari" /><img style="width:47%; padding:16px;" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=priyamakeshwari&theme=tokyonight" alt="priyamakeshwari" /></p>
+<div align="center">&nbsp;<img style="width:47%; margin:16px;" align="center" src="https://github-readme-stats.vercel.app/api?username=priyamakeshwari&show_icons=true&theme=tokyonight&locale=en" alt="priyamakeshwari" /><img style="width:47%; margin:16px;" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=priyamakeshwari&theme=tokyonight" alt="priyamakeshwari" /></div>
 
 <h3 align="center" style="font-weight: bold; font-size:24px">Check out my portfolio @</h3>
 <p align="center">
